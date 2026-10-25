@@ -1,0 +1,25 @@
+# Build outputs and intermediate files
+dist/
+build/
+bin/
+obj/
+
+# Visual Studio / IDE temporary files
+.vs/
+*.sln.docstates
+*.suo
+*.user
+*.ncb
+*.opt
+*.plg
+*.aps
+
+# CMake temporary files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+*.vcxproj*
+
+# System files
+Thumbs.db
+Desktop.ini

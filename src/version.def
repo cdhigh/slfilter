@@ -1,0 +1,12 @@
+LIBRARY version.dll
+EXPORTS
+    GetFileVersionInfoA = hlp_GetFileVersionInfoA
+    GetFileVersionInfoExA = hlp_GetFileVersionInfoExA
+    GetFileVersionInfoExW = hlp_GetFileVersionInfoExW
+    GetFileVersionInfoSizeA = hlp_GetFileVersionInfoSizeA
+    GetFileVersionInfoSizeExA = hlp_GetFileVersionInfoSizeExA
+    GetFileVersionInfoSizeExW = hlp_GetFileVersionInfoSizeExW
+    GetFileVersionInfoSizeW = hlp_GetFileVersionInfoSizeW
+    GetFileVersionInfoW = hlp_GetFileVersionInfoW
+    VerQueryValueA = hlp_VerQueryValueA
+    VerQueryValueW = hlp_VerQueryValueW
