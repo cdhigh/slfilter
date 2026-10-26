@@ -24,7 +24,6 @@ Zero binary modifications to `layout60.exe` — deployed simply by dropping `ver
   - Pressing **↑** at the top of the results list returns smoothly to the filter box.
   - Pressing **Esc** clears the search or returns focus to the tree.
 - **Global Hotkey (`Ctrl + Alt + F`)**: Instantly focuses and selects the search box from anywhere within the application.
-- **High Performance & Zero Flicker**: Pure event-driven resizing; eliminated periodic timer polls, ensuring the TreeView never flickers.
 
 ---
 
